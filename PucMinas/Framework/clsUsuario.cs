@@ -8,6 +8,6 @@ namespace Framework
 {
     public class clsUsuario
     {
-        int x = 0;
+        int x = 10;
     }
 }
